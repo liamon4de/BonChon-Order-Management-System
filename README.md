@@ -114,8 +114,22 @@ package_order() - packages the prepared food
 upd_status() - updates the preparation status of an order
 
 **Class Diagram**
+
 <img width="189" height="323" alt="image" src="https://github.com/user-attachments/assets/6426b3cd-0c0a-450d-9efb-8c098b8b1828" />
 
+**Goals**
 
+Our project aims to improve the overall efficiency and convenience of food ordering and delivery. By providing a more organized system for handling transactions, we hope to minimize human errors, reduce unnecessary delays, and improve coordination among the individuals involved. In the long run, we expect this project to contribute to a smoother and more reliable customer experience while helping restaurant operations become more systematic and manageable.
 
+**Objective 1: **
+Develop an interactive system that allows users to browse available food items on the menu, including their descriptions, prices, and possible combinations for orders.
+
+**Objective 2:** 
+Implement a cart management system that will be able to record, track, and calculate customers’ orders. Users may still be able to add, remove, and modify items before confirming their purchases.
+
+**Objective 3:** 
+Integrate an order monitoring feature that allows restaurant staff to update the preparation status of confirmed orders to keep customers informed.
+
+**Objective 4:** 
+Develop a delivery management system that assigns available riders to confirmed orders and allows delivery statuses to be updated as well.
 
