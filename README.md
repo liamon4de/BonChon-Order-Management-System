@@ -119,6 +119,7 @@ upd_status() - updates the preparation status of an order
 
 
 **Goals**
+
 Our project aims to improve the overall efficiency and convenience of food ordering and delivery. By providing a more organized system for handling transactions, we hope to minimize human errors, reduce unnecessary delays, and improve coordination among the individuals involved. In the long run, we expect this project to contribute to a smoother and more reliable customer experience while helping restaurant operations become more systematic and manageable.
 
 **Objective 1:**
