@@ -112,3 +112,8 @@ cook_order() - prepares the customer's food order
 package_order() - packages the prepared food
 
 upd_status() - updates the preparation status of an order
+
+**Class Diagram**
+
+<img width="581" height="1003" alt="image" src="https://github.com/user-attachments/assets/53594788-6870-4843-ae81-39048645a07d" />
+
