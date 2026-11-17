@@ -1,4 +1,4 @@
-# BonChon-Order-Management-System
+# BonChon Order Management System
 Section: Rubidium
 
 Group Members: Amalia Lapira, Michaela Laqui, Andrey Obial
